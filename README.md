@@ -4,7 +4,7 @@
 
 **Desarrollador de Videojuegos · 11 años**
 
-[![Sitio Oficial](https://img.shields.io/badge/Sitio%20Oficial-wraithbane.pro-000000?style=for-the-badge&logo=googlechrome&logoColor=white)](http://localhost:3000/autor)
+[![Sitio Oficial](https://img.shields.io/badge/Sitio%20Oficial-wraithbane.pro-000000?style=for-the-badge&logo=googlechrome&logoColor=white)](https://wraithbane.pro/autor)
 [![Patreon](https://img.shields.io/badge/Patreon-Beta%20Gated-F96854?style=for-the-badge&logo=patreon&logoColor=white)](https://www.patreon.com/cw/Travisdev)
 [![TikTok](https://img.shields.io/badge/TikTok-@travis.d3v-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://www.tiktok.com/@travis.d3v)
 [![Instagram](https://img.shields.io/badge/Instagram-travis.devs-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/travis.devs)
@@ -116,6 +116,6 @@ Para la planificación estructurada de mis proyectos utilizo **[Gentle-AI](https
 
 <div align="center">
 
-**Sitio personal:** [wraithbane.pro/autor](http://localhost:3000/autor) · **Proyecto destacado:** [github.com/travisd3v/wraithbane-showcase](https://github.com/travisd3v/wraithbane-showcase)
+**Sitio personal:** [wraithbane.pro/autor](https://wraithbane.pro/autor) · **Proyecto destacado:** [github.com/travisd3v/wraithbane-showcase](https://github.com/travisd3v/wraithbane-showcase)
 
 </div>
