@@ -55,9 +55,44 @@ Me desarrollo en un entorno donde la informática es parte del día a día. Apre
 | Relación | Perfil | Especialidad | GitHub |
 | --- | --- | --- | --- |
 | Papá | Sam Wilkie | Desarrollador Full-Stack y Creador de SaaS | [@depper-IA](https://github.com/depper-IA) |
-| Mamá | Lina | Desarrolladora Junior Frontend y Estudiante de Ciberseguridad | [@ummell](https://github.com/ummell) |
+| Mamá | - | Desarrolladora Junior Frontend y Estudiante de Ciberseguridad | [@ummell](https://github.com/ummell) |
 
 Mi objetivo al compartir mi proceso es invitar a otros niños a descubrir la tecnología como un lenguaje creativo y divertido.
+
+---
+
+## Flujo de Trabajo e IA
+
+Este proyecto fue desarrollado en primera persona por mí, **Travis**, con la guía de mis padres programadores. El proceso integra activamente el uso de inteligencia artificial de vanguardia como herramienta de aprendizaje y construcción.
+
+### Modelos de IA Utilizados
+
+| Modelo | Implementación |
+| --- | --- |
+| ![Claude](https://img.shields.io/badge/Claude-Sonnet%20%7C%20Opus%20%7C%20Fable-D97757?style=for-the-badge&logo=anthropic&logoColor=white) | Modelos de Anthropic para razonamiento crítico y arquitectura. |
+| ![MiniMax](https://img.shields.io/badge/MiniMax-M3-FF6B35?style=for-the-badge&logo=openai&logoColor=white) | Modelo **M3** mediante plan de tokens y API de NVIDIA. |
+| ![GLM](https://img.shields.io/badge/GLM-5.2-4D8EFF?style=for-the-badge&logo=zhipu&logoColor=white) | Modelo **5.2** integrado a través de la API de NVIDIA. |
+| ![Gemini](https://img.shields.io/badge/Gemini-3.5%20Vertex-4285F4?style=for-the-badge&logo=google&logoColor=white) | Modelo **3.5** de Google mediante la plataforma Vertex de mis padres. |
+
+### Entornos de Desarrollo (IDEs)
+
+| Herramienta | Uso |
+| --- | --- |
+| ![Kiro](https://img.shields.io/badge/IDE-Kiro-7E47E0?style=for-the-badge) | Generación y edición principal de código. |
+| ![Antigravity](https://img.shields.io/badge/IDE-Antigravity-000000?style=for-the-badge) | Entorno secundario para tareas de implementación. |
+
+### Terminales (CLIs)
+
+| Herramienta | Uso |
+| --- | --- |
+| ![OpenCode](https://img.shields.io/badge/CLI-OpenCode-000000?style=for-the-badge) | Interfaz principal de comandos. |
+| ![Claude Code](https://img.shields.io/badge/CLI-Claude%20Code-D97757?style=for-the-badge&logo=anthropic&logoColor=white) | Interacción complementaria con Claude. |
+
+### Desarrollo Basado en Especificaciones (SDD)
+
+![Gentle-AI](https://img.shields.io/badge/SDD-Gentle_AI-FF8C00?style=for-the-badge&logo=openai&logoColor=white)
+
+Para la planificación estructurada se utilizó **[Gentle-AI](https://github.com/Gentleman-Programming/gentle-ai)**, una herramienta **excelente** para proyectos de esta escala, que facilita la integración con múltiples modelos y automatiza las fases de diseño y desarrollo.
 
 ---
 
