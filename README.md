@@ -21,19 +21,19 @@ Soy desarrollador de videojuegos. Comencé mi trayectoria con Roblox Studio y ac
 Tengo 11 años y considero que el código es el taller donde la imaginación toma forma. Construyo proyectos reales en los que cada recurso gráfico, patrón de jefe y línea de lógica representa un aprendizaje consolidado.
 
 > "La creación no se hereda. Se inventa a oscuras — y al inventarla, se vuelve eterna."  
-> — TRAVIS, en el primer commit
+> — Travis, en el primer commit
 
 ---
 
-## Proyectos Destacados
+## Mis Proyectos
 
 | Proyecto | Descripción | Tecnologías |
 | --- | --- | --- |
-| [**Wraithbane-Showcase**](https://github.com/travisd3v/wraithbane-showcase) | Plataformas 2D de fantasía oscura y combate contra jefes. Incluye sistemas de combate precisos e integración en tiempo real con TikTok Live. **[Ver repositorio →](https://github.com/travisd3v/wraithbane-showcase)** | JavaScript · Canvas 2D · Vite · Vitest · Node.js · Socket.IO |
+| [**Wraithbane-Showcase**](https://github.com/travisd3v/wraithbane-showcase) | Mi primer juego completo: plataformas 2D de fantasía oscura y combate contra jefes. Incluye sistemas de combate precisos e integración en tiempo real con TikTok Live. **[Ver repositorio →](https://github.com/travisd3v/wraithbane-showcase)** | JavaScript · Canvas 2D · Vite · Vitest · Node.js · Socket.IO |
 
 ---
 
-## Stack Tecnológico
+## Mi Stack Tecnológico
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -48,9 +48,9 @@ Tengo 11 años y considero que el código es el taller donde la imaginación tom
 
 ---
 
-## Inspiraciones
+## Mis Inspiraciones
 
-Me desarrollo en un entorno donde la informática es parte del día a día. Aprendí que programar es la mejor manera de materializar ideas observando la labor profesional de mis padres.
+Crecí en un entorno donde la informática es parte del día a día. Aprendí que programar es la mejor manera de materializar ideas observando la labor profesional de mis padres.
 
 | Relación | Perfil | Especialidad | GitHub |
 | --- | --- | --- | --- |
@@ -61,11 +61,11 @@ Mi objetivo al compartir mi proceso es invitar a otros niños a descubrir la tec
 
 ---
 
-## Flujo de Trabajo e IA
+## Mi Flujo de Trabajo con IA
 
-Este proyecto fue desarrollado en primera persona por mí, **Travis**, con la guía de mis padres programadores. El proceso integra activamente el uso de inteligencia artificial de vanguardia como herramienta de aprendizaje y construcción.
+En mi día a día integro herramientas de inteligencia artificial de vanguardia como parte fundamental del proceso de aprendizaje y construcción.
 
-### Modelos de IA Utilizados
+### Modelos de IA que utilizo
 
 | Modelo | Implementación |
 | --- | --- |
@@ -74,29 +74,29 @@ Este proyecto fue desarrollado en primera persona por mí, **Travis**, con la gu
 | ![GLM](https://img.shields.io/badge/GLM-5.2-4D8EFF?style=for-the-badge&logo=zhipu&logoColor=white) | Modelo **5.2** integrado a través de la API de NVIDIA. |
 | ![Gemini](https://img.shields.io/badge/Gemini-3.5%20Vertex-4285F4?style=for-the-badge&logo=google&logoColor=white) | Modelo **3.5** de Google mediante la plataforma Vertex de mis padres. |
 
-### Entornos de Desarrollo (IDEs)
+### Mis Entornos de Desarrollo (IDEs)
 
 | Herramienta | Uso |
 | --- | --- |
 | ![Kiro](https://img.shields.io/badge/IDE-Kiro-7E47E0?style=for-the-badge) | Generación y edición principal de código. |
 | ![Antigravity](https://img.shields.io/badge/IDE-Antigravity-000000?style=for-the-badge) | Entorno secundario para tareas de implementación. |
 
-### Terminales (CLIs)
+### Mis Terminales (CLIs)
 
 | Herramienta | Uso |
 | --- | --- |
 | ![OpenCode](https://img.shields.io/badge/CLI-OpenCode-000000?style=for-the-badge) | Interfaz principal de comandos. |
 | ![Claude Code](https://img.shields.io/badge/CLI-Claude%20Code-D97757?style=for-the-badge&logo=anthropic&logoColor=white) | Interacción complementaria con Claude. |
 
-### Desarrollo Basado en Especificaciones (SDD)
+### Mi Framework SDD
 
 ![Gentle-AI](https://img.shields.io/badge/SDD-Gentle_AI-FF8C00?style=for-the-badge&logo=openai&logoColor=white)
 
-Para la planificación estructurada se utilizó **[Gentle-AI](https://github.com/Gentleman-Programming/gentle-ai)**, una herramienta **excelente** para proyectos de esta escala, que facilita la integración con múltiples modelos y automatiza las fases de diseño y desarrollo.
+Para la planificación estructurada utilizo **[Gentle-AI](https://github.com/Gentleman-Programming/gentle-ai)**, una herramienta **excelente** para proyectos de esta escala, que facilita la integración con múltiples modelos y automatiza las fases de diseño y desarrollo.
 
 ---
 
-## Trayectoria de Aprendizaje
+## Mi Trayectoria de Aprendizaje
 
 | Etapa | Conocimientos Adquiridos |
 | --- | --- |
@@ -108,4 +108,4 @@ Para la planificación estructurada se utilizó **[Gentle-AI](https://github.com
 
 ---
 
-Autor: [wraithbane.pro/autor](https://wraithbane.pro/autor) · Proyecto: [github.com/travisd3v/wraithbane-showcase](https://github.com/travisd3v/wraithbane-showcase)
+Mi sitio: [wraithbane.pro/autor](https://wraithbane.pro/autor) · Mi proyecto: [github.com/travisd3v/wraithbane-showcase](https://github.com/travisd3v/wraithbane-showcase)
