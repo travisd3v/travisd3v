@@ -1,7 +1,7 @@
 # Travis Wilkie
 
-**Desarrollador de Videojuegos · 11 años**  
-Con base en Colombia · Aprendiendo a forjar mundos desde cero
+🎯 **Desarrollador de Videojuegos · 11 años**  
+🇨🇴 Con base en Colombia · Aprendiendo a forjar mundos desde cero
 
 [![Patreon](https://img.shields.io/badge/Patreon-Beta_Gated-F96854?style=for-the-badge&logo=patreon&logoColor=white)](https://www.patreon.com/cw/Travisdev)
 [![Sitio](https://img.shields.io/badge/wraithbane.pro-El_Autor-000000?style=for-the-badge&logo=googlechrome&logoColor=white)](https://wraithbane.pro/autor)
@@ -13,18 +13,18 @@ Con base en Colombia · Aprendiendo a forjar mundos desde cero
 
 ---
 
-## Sobre mí
+## 👤 Sobre mí
 
-Soy desarrollador de videojuegos. Empecé con Roblox Studio y hoy escribo videojuegos completos desde cero con HTML5 Canvas y Vanilla JavaScript, optimizando rendimiento, aplicando pruebas unitarias con Vitest y metodología de desarrollo estructurada.
+Soy desarrollador de videojuegos. Empecé con **Roblox Studio** y hoy escribo videojuegos completos desde cero con **HTML5 Canvas** y **Vanilla JavaScript**, optimizando rendimiento, aplicando pruebas unitarias con **Vitest** y metodología de desarrollo estructurada.
 
-Tengo 11 años y para mí el código no es solo una herramienta — es el taller donde la imaginación cobra forma. No hago tutoriales, hago proyectos reales: cada sprite, cada patrón de jefe, cada línea de código es una lección tan mía como de quien la juegue.
+Tengo **11 años** y para mí el código no es solo una herramienta — es el taller donde la imaginación cobra forma. No hago de esto un simple pasatiempo, construyo proyectos reales: cada sprite, cada patrón de jefe y cada línea de código es una lección aprendida.
 
-> _"La creación no se hereda. Se inventa a oscuras — y al inventarla, se vuelve eterna."_  
+> 💬 _"La creación no se hereda. Se inventa a oscuras — y al inventarla, se vuelve eterna."_  
 > — TRAVIS, en el primer commit
 
 ---
 
-## Lo que construyo
+## 🛠️ Lo que construyo
 
 | Proyecto | Qué es | Stack |
 | --- | --- | --- |
@@ -32,7 +32,7 @@ Tengo 11 años y para mí el código no es solo una herramienta — es el taller
 
 ---
 
-## Stack tecnológico
+## 🚀 Stack tecnológico
 
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/es/docs/Web/JavaScript)
 [![HTML5](https://img.shields.io/badge/HTML5_Canvas-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/es/docs/Web/HTML)
@@ -47,14 +47,14 @@ Tengo 11 años y para mí el código no es solo una herramienta — es el taller
 
 ---
 
-## Inspiraciones
+## 💡 Inspiraciones
 
 Crezco en un hogar donde la informática es el día a día. Aprendí desde muy pequeño que programar es una forma genial de dar vida a cualquier idea — y lo aprendí mirando a mis padres trabajar todos los días.
 
 | Quién | Qué hace | GitHub |
 | --- | --- | --- |
-| **Papá** · Sam Wilkie | Desarrollador Full-Stack & SaaS Builder. Fundador de Wilkie Devs · Creador de Lookitry | [**@depper-IA**](https://github.com/depper-IA) |
-| **Mamá** | Desarrolladora Junior Frontend y estudiante de Ciberseguridad | [**@ummell**](https://github.com/ummell) |
+| 👨‍💻 **Papá** · Sam Wilkie | Desarrollador Full-Stack & SaaS Builder. Fundador de Wilkie Devs · Creador de Lookitry | [**@depper-IA**](https://github.com/depper-IA) |
+| 👩‍💻 **Mamá** | Desarrolladora Junior Frontend y estudiante de Ciberseguridad | [**@ummell**](https://github.com/ummell) |
 
 Gracias a ellos entiendo que la tecnología no es un destino — es un lenguaje que se aprende practicándolo en serio cada día.
 
@@ -62,7 +62,7 @@ Compartir mi proceso en redes no es para presumir. Es para mostrar mi viaje e in
 
 ---
 
-## Cómo vengo aprendiendo
+## 📈 Cómo vengo aprendiendo
 
 | Hito | Qué aprendí |
 | --- | --- |
@@ -70,7 +70,7 @@ Compartir mi proceso en redes no es para presumir. Es para mostrar mi viaje e in
 | **Vanilla JS · Canvas** | Dejé de depender de motores de juego. Escribo todo desde cero — render, física, colisiones y comportamiento. |
 | **Testing con Vitest** | Aprendí que el código sin pruebas automatizadas es solo una esperanza. El código con pruebas es una afirmación. |
 | **Integración TikTok Live** | Socket.IO + Node.js para que los regalos y eventos del chat en vivo interactúen con el juego en tiempo real. |
-| **Beta de Wraithbane** | OAuth2, manejo de sesiones, contenedores Docker y configuración de proxy inverso con Caddy para un entorno de producción real. |
+| **Arquitectura y Deploys** | OAuth2, manejo de sesiones, contenedores de aplicaciones y configuración de proxy inverso para un entorno de producción real. |
 
 ---
 
