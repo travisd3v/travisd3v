@@ -1,7 +1,7 @@
 # Travis Wilkie
 
-🎯 **Desarrollador de Videojuegos · Creador de [WRAITHBANE](https://wraithbane.pro/)**  
-Con base en Colombia 🇨🇴 · Construyendo mundos digitales desde los 11 años
+🎯 **Desarrollador de Videojuegos · 11 años**  
+Con base en Colombia 🇨🇴 · Aprendiendo a forjar mundos desde cero
 
 [![Patreon](https://img.shields.io/badge/Patreon-Beta_Gated-F96854?style=for-the-badge&logo=patreon&logoColor=white)](https://www.patreon.com/cw/Travisdev)
 [![Sitio](https://img.shields.io/badge/wraithbane.pro-El_Autor-000000?style=for-the-badge&logo=googlechrome&logoColor=white)](https://wraithbane.pro/autor)
@@ -15,9 +15,9 @@ Con base en Colombia 🇨🇴 · Construyendo mundos digitales desde los 11 año
 
 ## Sobre mí
 
-Transformo ideas en mundos interactivos. Empecé mi camino con Roblox Studio y hoy desarrollo videojuegos completos desde cero con **HTML5 Canvas** y **Vanilla JavaScript**, optimizando rendimiento y aplicando metodologías de desarrollo estructurado.
+Soy desarrollador de videojuegos. Empecé con **Roblox Studio** y hoy escribo juegos completos desde cero con **HTML5 Canvas** y **Vanilla JavaScript**, optimizando rendimiento, aplicando testing con Vitest y metodología de desarrollo estructurada.
 
-Tengo **11 años** y para mí el código no es solo una herramienta — es el espacio donde la imaginación cobra forma. Cada sprite, cada patrón de boss, cada línea de código es una lección tan mía como del jugador que la enfrente.
+Tengo **11 años** y para mí el código no es solo una herramienta — es el taller donde la imaginación cobra forma. No hago tutoriales, hago productos reales: cada sprite, cada patrón de jefe, cada línea es una lección tan mía como del jugador que la enfrente.
 
 > _"La creación no se hereda. Se inventa a oscuras — y al inventarla, se vuelve eterna."_  
 > — TRAVIS, en el primer commit
@@ -26,32 +26,9 @@ Tengo **11 años** y para mí el código no es solo una herramienta — es el es
 
 ## Lo que construyo
 
-Especializado en **dark-fantasy 2D platformers** con integración de transmisiones en vivo. No se trata de tutoriales: son productos reales con mecánicas de combate precisas, sistemas de jefe multifásicos y connectors personalizados para plataformas de streaming.
-
-**Años de experiencia:** empezando fuerte — primero de muchos. No cuento años, cuento **amos amaneceres forjados**.
-
----
-
-## Proyecto destacado
-
 | Proyecto | Qué es | Stack |
 | --- | --- | --- |
-| [**WRAITHBANE**](https://wraithbane.pro/) | Dark-fantasy boss-rush 2D platformer. Aldric, el Último Velador, atraviesa Veylan para enfrentar al Rey Espectro durante la Larga Noche. 5 fases, parry, dash, 7 Fragmentos de Alba. **Beta Patreon-gated vía TRAVIS.** Integración TikTok Live que dispara efectos en tiempo real con regalos y eventos del chat. | Vanilla JS · HTML5 Canvas · Vite · Vitest · pnpm · Node.js · Socket.IO |
-
----
-
-## El juego en datos
-
-Datos verificados del proyecto, registrados en el código y la memoria del alba. Sin adornos, sin promesas — solo lo que ya late.
-
-| Campo | Valor |
-| --- | --- |
-| **Género** | Dark fantasy · Boss-rush 2D platformer |
-| **Protagonista** | Aldric, el Último Velador |
-| **Jefe** | El Rey Espectro (Rey Hervyn) · 5 fases |
-| **Mundo** | Veylan |
-| **Estado** | Beta · Patreon gated (TRAVIS) |
-| **Integración live** | TikTok Live → Socket.IO → efectos en tiempo real |
+| [**WRAITHBANE**](https://github.com/travisd3v/wraithbane) | Dark-fantasy boss-rush 2D platformer. Mi primer juego, en desarrollo **desde cero**. Beta Patreon-gated con integración TikTok Live en tiempo real. **[Ver showcase →](https://github.com/travisd3v/wraithbane)** | Vanilla JS · HTML5 Canvas · Vite · Vitest · pnpm · Node.js · Socket.IO |
 
 ---
 
@@ -72,24 +49,30 @@ Datos verificados del proyecto, registrados en el código y la memoria del alba.
 
 ## Inspiraciones
 
-Crezco en un hogar donde la informática es el día a día. Mi papá es desarrollador **Full Stack** con mucha experiencia, y mi mamá se especializa en **ciberseguridad**. Gracias a ellos aprendí desde muy pequeño que programar es una forma genial de dar vida a cualquier idea.
+Crezco en un hogar donde la informática es el día a día. Aprendí desde muy pequeño que programar es una forma genial de dar vida a cualquier idea — y lo aprendí mirando a mis padres trabajar todos los días.
 
-Compartir mi proceso en redes no es para presumir — es para mostrar mi viaje e invitar a otros niños a crear y divertirse con la tecnología.
+| | Quién | Qué hace | GitHub |
+| :---: | --- | --- | --- |
+| 👨‍💻 | **Papá** · Sam Wilkie | Desarrollador **Full-Stack** & SaaS Builder. Fundador de Wilkie Devs · Creador de Lookitry | [**@depper-IA**](https://github.com/depper-IA) |
+| 🔐 | **Mamá** · Lina | Especialista en **Ciberseguridad** | [**@ummell**](https://github.com/ummell) |
+
+Gracias a ellos entiendo que la tecnología no es un destino — es un lenguaje que se aprende practicándolo en serio cada día.
+
+Compartir mi proceso en redes no es para presumir. Es para mostrar mi viaje e **invitar a otros niños a crear y divertirse con la tecnología**, igual que yo aprendí mirando los dos mejores modelos que tengo en casa.
 
 ---
 
-## Cuatro amaneceres
+## Cómo venengo aprendiendo
 
-La línea de tiempo de WRAITHBANE no se mide en commits, sino en amaneceres forjados.
-
-| Amanecer | Qué marcó |
+| Hito | Qué aprendí |
 | --- | --- |
-| **El primer destello** | El día que descubrí que podía crear mundos con código. La pantalla dejó de ser una ventana y se volvió un taller. |
-| **La Larga Noche** | WRAITHBANE empezó a tomar forma: Aldric, el Rey Espectro, Veylan. La historia del alba que se niega a morir encontró a su primer velador. |
-| **El primer triunfo** | Prototipo jugable: boss-rush, 5 fases, parry, dash. Cada mecánica aprendida, cada sprite forjado a mano. |
-| **El alba** | Hoy la beta se abre a los patrons activos en TRAVIS. El ciclo empieza a cerrarse — y, al cerrarse, vuelve a empezar. |
+| **Roblox Studio** | Mis primeros pasos. Descubrí que escribir código podía crear mundos. |
+| **Vanilla JS · Canvas** | Dejé de depender de motores. Escribo todo desde cero — render, física, colisiones, AI. |
+| **Testing con Vitest** | Aprendí que el código sin tests es una esperanza. El código con tests es una afirmación. |
+| **Integración TikTok Live** | Socket.IO + Node.js para que regalos y eventos del chat muevan el juego en tiempo real. |
+| **Beta Patreon-gated** | OAuth2, sesiones, deploys Docker, Caddy, reverse proxy. Producción real, no ejercicios. |
 
 ---
 
-_Probar la beta: [wraithbane.pro](https://wraithbane.pro/) · Conoce al autor: [wraithbane.pro/autor](https://wraithbane.pro/autor)_  
+_Autor: [wraithbane.pro/autor](https://wraithbane.pro/autor) · Proyecto: [github.com/travisd3v/wraithbane](https://github.com/travisd3v/wraithbane)_  
 _Construyendo mundos digitales desde Colombia para todo el universo._
