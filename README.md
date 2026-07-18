@@ -1,44 +1,52 @@
+<div align="center">
+
 # Travis Wilkie
 
-![Desarrollador de Videojuegos](https://img.shields.io/badge/Rol-Desarrollador%20de%20Videojuegos-000000?style=for-the-badge&logo=game-developer&logoColor=white)
-![Edad](https://img.shields.io/badge/Edad-11%20años-000000?style=for-the-badge)
-![Ubicación](https://img.shields.io/badge/Ubicación-Colombia-000000?style=for-the-badge&logo=googlemaps&logoColor=white)
+**Desarrollador de Videojuegos · 11 años**
 
+[![Sitio Oficial](https://img.shields.io/badge/Sitio%20Oficial-wraithbane.pro-000000?style=for-the-badge&logo=googlechrome&logoColor=white)](http://localhost:3000/autor)
 [![Patreon](https://img.shields.io/badge/Patreon-Beta%20Gated-F96854?style=for-the-badge&logo=patreon&logoColor=white)](https://www.patreon.com/cw/Travisdev)
-[![Sitio](https://img.shields.io/badge/Sitio%20Oficial-wraithbane.pro-000000?style=for-the-badge&logo=googlechrome&logoColor=white)](https://wraithbane.pro/autor)
 [![TikTok](https://img.shields.io/badge/TikTok-@travis.d3v-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://www.tiktok.com/@travis.d3v)
 [![Instagram](https://img.shields.io/badge/Instagram-travis.devs-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/travis.devs)
 [![Kick](https://img.shields.io/badge/Kick-travisdevs-53FC18?style=for-the-badge&logo=kick&logoColor=white)](https://kick.com/travisdevs)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-Comunidad-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://chat.whatsapp.com/GlI1nbKXnm6CqfgE2MxUXI)
 [![GitHub](https://img.shields.io/badge/GitHub-travisd3v-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/travisd3v)
 
+</div>
+
 ---
 
 ## Sobre mí
 
-Soy desarrollador de videojuegos. Comencé mi trayectoria con Roblox Studio y actualmente desarrollo videojuegos completos desde cero utilizando HTML5 Canvas y JavaScript Vanilla, con un enfoque en la optimización de rendimiento, aplicación de pruebas unitarias con Vitest y metodologías de desarrollo estructurado.
+Desarrollador de videojuegos de **11 años**, afincado en Colombia, con un enfoque profundo en la creación de productos técnicos desde la base. Inicié mi camino en la programación explorando Roblox Studio, y gradualmente evolucioné hacia la construcción de sistemas completos con **JavaScript Vanilla** sobre la API de **Canvas 2D de HTML5**.
 
-Tengo 11 años y considero que el código es el taller donde la imaginación toma forma. Construyo proyectos reales en los que cada recurso gráfico, patrón de jefe y línea de lógica representa un aprendizaje consolidado.
+Me considero un aprendiz constante. A lo largo de mi trayecto he asimilado principios fundamentales de ingeniería de software: optimización de rendimiento, aplicación de **pruebas unitarias con Vitest**, metodologías estructuradas de desarrollo y un compromiso firme con la calidad del código. Cada proyecto en el que trabajo es una oportunidad para profundizar mis conocimientos y superar nuevos retos técnicos.
 
-> "La creación no se hereda. Se inventa a oscuras — y al inventarla, se vuelve eterna."  
-> — Travis, en el primer commit
+Mi motivación central es construir mundos interactivos. Considero que el código es mucho más que un conjunto de instrucciones: es el espacio donde la imaginación cobra vida y donde las ideas se transforman en experiencias concretas para los usuarios.
 
 ---
 
 ## Mis Proyectos
 
-| Proyecto | Descripción | Tecnologías |
+| Proyecto | Descripción | Stack |
 | --- | --- | --- |
-| [**Wraithbane-Showcase**](https://github.com/travisd3v/wraithbane-showcase) | Mi primer juego completo: plataformas 2D de fantasía oscura y combate contra jefes. Incluye sistemas de combate precisos e integración en tiempo real con TikTok Live. **[Ver repositorio →](https://github.com/travisd3v/wraithbane-showcase)** | JavaScript · Canvas 2D · Vite · Vitest · Node.js · Socket.IO |
+| [**Wraithbane-Showcase**](https://github.com/travisd3v/wraithbane-showcase) | Plataformas 2D de fantasía oscura con combate contra jefes de cinco fases. Integra sistemas precisos de **parry**, **dash** y conexión en tiempo real con TikTok Live mediante **Socket.IO**. **[Explorar el repositorio →](https://github.com/travisd3v/wraithbane-showcase)** | JavaScript · Canvas 2D · Vite · Vitest · Node.js · Socket.IO |
 
 ---
 
-## Mi Stack Tecnológico
+## Stack y Tecnologías
+
+Mi stack de trabajo diario se centra en la eficiencia y el rendimiento nativo del navegador, evitando dependencias innecesarias.
+
+### Lenguajes Principales
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+### Herramientas de Desarrollo
+
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
 ![Vitest](https://img.shields.io/badge/Vitest-6E9F18?style=for-the-badge&logo=vitest&logoColor=white)
 ![pnpm](https://img.shields.io/badge/pnpm-8.15.9-F69220?style=for-the-badge&logo=pnpm&logoColor=white)
@@ -48,64 +56,66 @@ Tengo 11 años y considero que el código es el taller donde la imaginación tom
 
 ---
 
-## Mis Inspiraciones
+## Inspiraciones y Mentores
 
-Crecí en un entorno donde la informática es parte del día a día. Aprendí que programar es la mejor manera de materializar ideas observando la labor profesional de mis padres.
+La informática ha formado parte de mi entorno desde siempre. Crecí observando la labor profesional de mis padres, quienes me enseñaron que programar es la vía más efectiva para materializar ideas y resolver problemas reales.
 
 | Relación | Perfil | Especialidad | GitHub |
 | --- | --- | --- | --- |
 | Papá | Sam Wilkie | Desarrollador Full-Stack y Creador de SaaS | [@depper-IA](https://github.com/depper-IA) |
 | Mamá | - | Desarrolladora Junior Frontend y Estudiante de Ciberseguridad | [@ummell](https://github.com/ummell) |
 
-Mi objetivo al compartir mi proceso es invitar a otros niños a descubrir la tecnología como un lenguaje creativo y divertido.
-
 ---
 
-## Mi Flujo de Trabajo con IA
+## Flujo de Trabajo Asistido por IA
 
-En mi día a día integro herramientas de inteligencia artificial de vanguardia como parte fundamental del proceso de aprendizaje y construcción.
+Como parte de mi proceso creativo, integro herramientas de inteligencia artificial de vanguardia que potencian mi capacidad técnica y aceleran mi aprendizaje.
 
-### Modelos de IA que utilizo
+### Modelos de IA
 
 | Modelo | Implementación |
 | --- | --- |
-| ![Claude](https://img.shields.io/badge/Claude-Sonnet%20%7C%20Opus%20%7C%20Fable-D97757?style=for-the-badge&logo=anthropic&logoColor=white) | Modelos de Anthropic para razonamiento crítico y arquitectura. |
+| ![Claude](https://img.shields.io/badge/Claude-Sonnet%20%7C%20Opus%20%7C%20Fable-D97757?style=for-the-badge&logo=anthropic&logoColor=white) | Modelos avanzados de Anthropic para razonamiento crítico y arquitectura. |
 | ![MiniMax](https://img.shields.io/badge/MiniMax-M3-FF6B35?style=for-the-badge&logo=openai&logoColor=white) | Modelo **M3** mediante plan de tokens y API de NVIDIA. |
 | ![GLM](https://img.shields.io/badge/GLM-5.2-4D8EFF?style=for-the-badge&logo=zhipu&logoColor=white) | Modelo **5.2** integrado a través de la API de NVIDIA. |
 | ![Gemini](https://img.shields.io/badge/Gemini-3.5%20Vertex-4285F4?style=for-the-badge&logo=google&logoColor=white) | Modelo **3.5** de Google mediante la plataforma Vertex de mis padres. |
 
-### Mis Entornos de Desarrollo (IDEs)
+### Entornos de Desarrollo
 
 | Herramienta | Uso |
 | --- | --- |
-| ![Kiro](https://img.shields.io/badge/IDE-Kiro-7E47E0?style=for-the-badge) | Generación y edición principal de código. |
+| ![Kiro](https://img.shields.io/badge/IDE-Kiro-7E47E0?style=for-the-badge) | IDE principal para la generación y edición de código. |
 | ![Antigravity](https://img.shields.io/badge/IDE-Antigravity-000000?style=for-the-badge) | Entorno secundario para tareas de implementación. |
 
-### Mis Terminales (CLIs)
+### Terminales (CLIs)
 
 | Herramienta | Uso |
 | --- | --- |
 | ![OpenCode](https://img.shields.io/badge/CLI-OpenCode-000000?style=for-the-badge) | Interfaz principal de comandos. |
 | ![Claude Code](https://img.shields.io/badge/CLI-Claude%20Code-D97757?style=for-the-badge&logo=anthropic&logoColor=white) | Interacción complementaria con Claude. |
 
-### Mi Framework SDD
+### Framework SDD
 
 ![Gentle-AI](https://img.shields.io/badge/SDD-Gentle_AI-FF8C00?style=for-the-badge&logo=openai&logoColor=white)
 
-Para la planificación estructurada utilizo **[Gentle-AI](https://github.com/Gentleman-Programming/gentle-ai)**, una herramienta **excelente** para proyectos de esta escala, que facilita la integración con múltiples modelos y automatiza las fases de diseño y desarrollo.
+Para la planificación estructurada de mis proyectos utilizo **[Gentle-AI](https://github.com/Gentleman-Programming/gentle-ai)**, una herramienta **excelente** para proyectos complejos, que facilita la integración con múltiples modelos de IA y automatiza las fases de diseño y desarrollo.
 
 ---
 
-## Mi Trayectoria de Aprendizaje
+## Trayectoria de Aprendizaje
 
 | Etapa | Conocimientos Adquiridos |
 | --- | --- |
 | **Roblox Studio** | Iniciación en la lógica de programación y creación de mundos virtuales. |
-| **JavaScript & Canvas** | Desarrollo de motores nativos. Implementación de bucles de ejecución con tiempo delta y renderizado pixel-perfect. |
+| **JavaScript y Canvas** | Desarrollo de motores nativos. Implementación de bucles de ejecución con tiempo delta y renderizado pixel-perfect. |
 | **Físicas y Colisiones** | Resolución de colisiones mediante algoritmos AABB y gestión de atlas de texturas optimizados. |
 | **Sistemas en Tiempo Real** | Arquitectura de middleware con Node.js y Socket.IO para integraciones dinámicas con streaming. |
-| **Ingeniería de Software** | Aplicación de pruebas unitarias con Vitest, gestión de estados inmutables y despliegue contenerizado con Docker. |
+| **Ingeniería de Software** | Pruebas unitarias con Vitest, gestión de estados inmutables y despliegue contenerizado con Docker. |
 
 ---
 
-Mi sitio: [wraithbane.pro/autor](https://wraithbane.pro/autor) · Mi proyecto: [github.com/travisd3v/wraithbane-showcase](https://github.com/travisd3v/wraithbane-showcase)
+<div align="center">
+
+**Sitio personal:** [wraithbane.pro/autor](http://localhost:3000/autor) · **Proyecto destacado:** [github.com/travisd3v/wraithbane-showcase](https://github.com/travisd3v/wraithbane-showcase)
+
+</div>
