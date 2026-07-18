@@ -66,10 +66,10 @@ Mi objetivo al compartir mi proceso es invitar a otros niños a descubrir la tec
 | Etapa | Conocimientos Adquiridos |
 | --- | --- |
 | **Roblox Studio** | Iniciación en la lógica de programación y creación de mundos virtuales. |
-| **JavaScript & Canvas** | Desarrollo nativo sin motores externos. Implementación de físicas y renderizado. |
-| **Pruebas Unitarias** | Garantía de estabilidad mediante el uso de Vitest en el núcleo del motor. |
-| **Sistemas en Tiempo Real** | Uso de Socket.IO y Node.js para integraciones dinámicas con streaming. |
-| **Arquitectura de Software** | Implementación de OAuth2, gestión de sesiones y despliegue contenerizado. |
+| **JavaScript & Canvas** | Desarrollo de motores nativos. Implementación de bucles de ejecución con tiempo delta y renderizado pixel-perfect. |
+| **Físicas y Colisiones** | Resolución de colisiones mediante algoritmos AABB y gestión de atlas de texturas optimizados. |
+| **Sistemas en Tiempo Real** | Arquitectura de middleware con Node.js y Socket.IO para integraciones dinámicas con streaming. |
+| **Ingeniería de Software** | Aplicación de pruebas unitarias con Vitest, gestión de estados inmutables y despliegue contenerizado con Docker. |
 
 ---
 
